@@ -1,0 +1,308 @@
+ ID                                                 Name                                                Patches Submitter  Updated  
+------------------------------------------------------------------------------------------------------------------------------------
+7381 bitbake/cache: don't insert PN into PACKAGES                                                             1      4397 2017-06-21
+7364 bitbake : Paginate 'bitbake -e' using less.                                                              1     12610 2017-06-20
+7355 action: bitbake-layers new plugin to create a layer                                                      1     11765 2017-06-20
+7270 Additional Hob code removal                                                                              1       207 2017-06-16
+7255 toaster: allow noweb option to also init database                                                        1     12517 2017-06-15
+7254 toaster: last build id call                                                                              1     12517 2017-06-15
+7253 toaster: update mockevent                                                                                1     12517 2017-06-15
+7252 toaster: sub-layer dependency matching                                                                   1     12517 2017-06-15
+7251 toaster: add UI element ids for testing                                                                  1     12517 2017-06-15
+7250 toaster: add all-builds element id for testing                                                           1     12517 2017-06-15
+7244 fetch: fix handling of files with incorrect checksums from a premirror                                   1     12113 2017-06-15
+7237 A couple more memres fixes                                                                               2       207 2017-06-14
+7230 bitbake: runqueue: multiconfig fix                                                                       1     11783 2017-06-14
+7220 bitbake:process: flush stderr/stdout to log                                                              1     11783 2017-06-14
+7199 flush stdout/stderr to log file                                                                          1     11783 2017-06-13
+7169 Drop Hob support commands and functions                                                                  1       207 2017-06-10
+7164 BitBake memory-resident mode fixes                                                                       4       207 2017-06-09
+7123 Tinfoil log duplication fixes                                                                            2       207 2017-06-08
+7113 more flexible include and require statements                                                             2     11503 2017-06-07
+7109 cookerdata: Implement LAYERSERIES_COMPAT and LAYERSERIES_CORENAMES                                       1        59 2017-06-07
+6846 cooker.py: allow dangling bbappends if explicitly whitelisted                                            1     11503 2017-06-07
+7082 bitbake-user-manual-metadata.xml: fix a typo                                                             1     11973 2017-06-06
+6914 bitbake-layers: check layer dependencies before adding                                                   1     11449 2017-06-05
+7035 siggen: Make calc_taskhash match get_taskhash for file checksums                                         1        59 2017-06-02
+7015 Series without cover letter                                                                              0     11771 2017-06-02
+5436 QA: create unit tests for event module                                                                   3     12529 2017-06-01
+6984 ConfHandler: Require whitespace between export and variable name                                         1     11417 2017-05-31
+6946 bb/tinfoil.py: import bb.msg                                                                             1       621 2017-05-27
+6790 Fix NameError in generatePkgDepTreeData                                                                  2     10769 2017-05-19
+6714 A couple of typo fixes                                                                                   2       207 2017-05-15
+6706 Add support for shallow mirror tarballs                                                                  8        22 2017-05-13
+6705 lib/bb/fetch2: Fix npm tarball fetch                                                                     1     12317 2017-05-13
+6696 data_smart: Don't cache/process capitalised overrides                                                    1        59 2017-05-12
+6433 toaster: move release lookup from morty to pyro                                                          1     12517 2017-04-20
+6431 tinfoil overrides fix                                                                                    1       207 2017-04-20
+6322 bitbake: knotty: Show elapsed time for tasks with progressbar                                            1     11417 2017-04-13
+6308 bitbake-layers: add signal hander to avoid exception                                                     1     11813 2017-04-12
+6298 data_smart: Ensure _remove operations on newly set variables are cleared                                 1        59 2017-04-12
+6294 lib/bb/{data, siggen}: Don't warn on SkipRecipe exceptions                                               1     11699 2017-04-11
+6277 bitbake-diffsigs: fix traceback with no arguments                                                        1       207 2017-04-11
+6241 command.py: multiconfig support for findBestProvider                                                     1     11783 2017-04-11
+6264 toaster: restore Toaster filter feature                                                                  1     12517 2017-04-10
+6246 toaster: fix SDK artifact capture                                                                        1     12517 2017-04-10
+6261 bb.cache: prevent division-by-zero in load_cahefile()                                                    1     11543 2017-04-10
+6248 toaster: fix add layer button for Machines                                                               0     12517 2017-04-10
+6213 bitbake-diffsigs fixes/improvements                                                                     11       207 2017-04-07
+6197 Bump version to 1.33.4                                                                                   1        59 2017-04-06
+6180 toaster: Create selenium tests for project dashboard page                                                1     12517 2017-04-06
+6178 cooker.py: multiconfig support for findBestProvider                                                      1     11783 2017-04-06
+6177 tinfoil.py: validate argument in parse_recipe_file                                                       1     11783 2017-04-06
+6158 fetch/local: Drop FILESDIR                                                                               1        59 2017-04-05
+6156 toaster: toastergui: implement machine name validation                                                   1     12517 2017-04-05
+6125 fetch2: Do not fail to create symbolic links if they already exist                                       1     10545 2017-04-03
+6115 Fixes for variable dependency handling with contains functions                                           4       207 2017-04-03
+6106 The fetcher should not fail due to an alredy existing symlink                                            1     10545 2017-04-01
+6083 bb/utils: extend which() so it can look for just executables                                             1      4397 2017-03-31
+6077 wget: Fix handling of urls with user/password                                                            1        59 2017-03-30
+6045 s3.py: Remove hardcoded aws                                                                              1     12447 2017-03-30
+6066 tinfoil: fixes for get_recipe_file()                                                                     2       207 2017-03-30
+6010 Follow-up fix for tinfoil series                                                                         1       207 2017-03-29
+6020 s3.py: Add support for fetching source mirrors/minor cleanup                                             1     12447 2017-03-29
+6025 fetch2: Ensure we don't have file downloads overwriting each other                                       1        59 2017-03-29
+5982 Fixes for tinfoil usage issues                                                                           3       207 2017-03-27
+5921 cooker.py: use correct multiconfig prefix in dependency graph                                            1     11503 2017-03-23
+5913 data/cooker: Sort output data shown by -e                                                                1        59 2017-03-22
+5911 bug 9962: improve -v, -D documentation                                                                   1     12610 2017-03-22
+5908 fetch/git: a few cleanups and one minor fix                                                              4        22 2017-03-22
+5879 bitbake-layers: fix layerindex-fetch for Python 3                                                        1       207 2017-03-20
+5878 Fixes for some tinfoil2 omissions                                                                        2       207 2017-03-20
+5868 data.py: sort exported variables                                                                         1     11783 2017-03-18
+5865 lib/bb/tests/codeparser: update expand syntax in comment                                                 1     12113 2017-03-18
+5860 taskdata.py: include more information in error message about broken task depends                         1     11503 2017-03-17
+5840 tests/data: Add inactive remove override test                                                            1        59 2017-03-16
+5810 runqueue: minor typo fix                                                                                 1     11095 2017-03-15
+5754 ConfHandler: Use the same regular expression for all variable names                                      1     10545 2017-03-11
+5753 knotty: Remove extra whitespace after task progress bars                                                 1     10545 2017-03-11
+5749 Improve bitbake-dumpsig                                                                                  3     10545 2017-03-11
+5689 runqueue: add option to run all tasks in specific build target                                           1     10613 2017-03-09
+5663 toaster: resolve missing native[sdk]: prefixes                                                           1     11903 2017-03-07
+5613 fetch2: pass --no-same-owner when extracting tar files compressed with 7-Zip                             1     11095 2017-03-03
+5612 fetch2: remove last remaining usage of deprecated bb.data APIs                                           1     11095 2017-03-03
+5610 fetch2: Allow whitespace only mirror entries                                                             1        59 2017-03-03
+5591 fetch2: add initial Amazon AWS S3 fetcher                                                                1     11095 2017-03-02
+5553 fetch2: don't use deprecated bb.data APIs                                                                1     11095 2017-02-28
+5512 Handle angular2 package names in bitbake                                                                 2        11 2017-02-25
+5506 process: stop bb.process.communicate mixing bytes and str return types                                   1       997 2017-02-25
+5469 Fix rpm signing with GPG v2.1                                                                            3     11543 2017-02-23
+5468 lib/oe/gpg_sign: sign rpm packages in chunks of 100                                                      1     11543 2017-02-23
+5434 Add bb.utils.filter()                                                                                    2     10545 2017-02-22
+5424 wget.py: match .lz tarballs as well when determining latest version                                      1     11769 2017-02-21
+5394 runqueue: Fix collapsed setscene dependency tree                                                         1        59 2017-02-20
+5376 fetch2/svn: change 'rsh' parameter to 'ssh'                                                              1     11543 2017-02-17
+5287 fetch2: Rename "setup_revisons" to "setup_revisions"                                                     1      3437 2017-02-13
+5286 fetch2: Correct two examples of typo "revsion."                                                          1      3437 2017-02-13
+5285 "[bitbake-devel,1/2] ui: Replac..." and 1 more                                                           2        59 2017-02-13
+5247 lib: Drop now unneeded update_data calls                                                                 1        59 2017-02-10
+5229 fetch2: Add NFS Stale file exception handling                                                            1         4 2017-02-09
+5226 tinfoil: ensure PATH includes bitbake's bin directory                                                    1       207 2017-02-09
+5168 OE eSDK related fixes                                                                                    3       207 2017-02-07
+5162 sanity checks for multiconfig                                                                            1     11783 2017-02-07
+5125 bitbake-layers: Handle exception raised bytinfoil.prepare()                                              1     11459 2017-02-03
+5107 cooker: detect malformed BBMASK expressions which begin with a separator                                 1     11095 2017-02-02
+5068 tinfoil: clean environment when starting up cooker                                                       1       207 2017-01-31
+4941 build.py: avoid exception when function is not defined                                                   1     11503 2017-01-25
+4925 1/2] bitbake: tests: create unit tests for event module                                                  1     12529 2017-01-24
+4922 cooker: Drop package-depends.dot and pn-depends.dot generation                                           1        59 2017-01-24
+4772 bitbake: rm_work enhancements                                                                            2     11503 2017-01-20
+4846 "[bitbake-devel,1/5] cooker: On..." and 4 more                                                           5        59 2017-01-20
+4792 cooker.py: new multiconfig '*' syntax support                                                            1     11783 2017-01-16
+4788 toaster: Fixes 9252 broken image builds                                                                  1     12013 2017-01-15
+4760 cookerdata.py: check for existence of configuration files                                                1     11783 2017-01-13
+4751 "[bitbake-devel,1/2] cooker.py:..." and 1 more                                                           2     11783 2017-01-13
+4746 gitsm.py: Add force flag to git checkout command in update_submodules                                    1     12546 2017-01-12
+4737 bitbake-layers: show-appends: add optional argument to limit package list                                1     10613 2017-01-12
+4693 "[bitbake-devel,1/2] bb/server/..." and 1 more                                                           2     11459 2017-01-10
+4689 bb/server/process.py: ProcessEventQueue add close of _writer pipe                                        1     11459 2017-01-10
+4669 event: Replace slightly elderly bbmake references!                                                       1        59 2017-01-07
+4666 prserv/persist_data/utils: Drop obsolete python2 imports                                                 1        59 2017-01-06
+4663 rm_work enhancements                                                                                     3     11503 2017-01-06
+4661 bb/cooker: BBCooker stops notifier at shutdown                                                           1     11459 2017-01-06
+4638 prserv/serv: Tweak stdout manipulation to be stream safe                                                 1        59 2017-01-06
+4518 use multiple processes to dump signatures.                                                               1     12063 2016-12-22
+4513 "[bitbake-devel,1/7] runqueue: ..." and 6 more                                                           7        59 2016-12-22
+4495 fetch2/wget: fixup case with no useful netrc data                                                        1      6113 2016-12-21
+4494 bitbake: fetch2/wget: fixup case with no netrc data                                                      1      6113 2016-12-21
+4433 "[bitbake-devel,1/2] cooker/com..." and 1 more                                                           2        59 2016-12-16
+4432 fetch2/wget: add Basic Auth from netrc to checkstatus()                                                  1     10613 2016-12-16
+4314 runqueue: dry-run real tasks when BB_SETSCENE_ENFORCE is set                                             1       207 2016-12-16
+4391 bitbake: remove True option to getVar calls (take 2)                                                     1     12113 2016-12-15
+4362 Tinfoil rework                                                                                          15       207 2016-12-13
+4357 lib/bb/build: enable access to logger within tasks                                                       1       207 2016-12-13
+4326 Patches for Toaster 09.12.16                                                                            14     11491 2016-12-10
+4302 fetch2: Copy out-of-tree files instead of symlinking                                                     1     12536 2016-12-08
+4292 cooker: Handle inofity queue overflows more gracefully                                                   1        59 2016-12-08
+4289 cooker: Fix world taskgraph generation issue                                                             1        59 2016-12-07
+4286 utils: Avoid traceback errors                                                                            1        59 2016-12-07
+4285 Series without cover letter                                                                              3        59 2016-12-07
+4136 bitbake: cooker: convert type which needs to be marshalled                                               1     10923 2016-12-06
+4248 Series without cover letter                                                                              1     12527 2016-12-06
+4203 toaster: add Selenium Docker container as browser test driver option                                     1     11903 2016-12-01
+4172 depexp: fix string formatting.                                                                           1     11775 2016-11-30
+4116 system statistics sampling                                                                               4     11503 2016-11-30
+4114 bitbake-worker: Handle cooker/worker IO deadlocking                                                      1        59 2016-11-29
+4094 Series without cover letter                                                                              2     12113 2016-11-26
+4096 remove True option to getVar / getVarFlag calls                                                          0     12113 2016-11-26
+4073 Patches for Toaster 22.11.16                                                                            15     11491 2016-11-24
+4067 qemuboot.bbclass: do not hook into do_rootfs                                                             1     11503 2016-11-24
+4066 pseudo: include fix for xattr corruption                                                                 1     11503 2016-11-24
+4057 toaster: settings.py , add * to ALLOWED_HOSTS                                                            1     11903 2016-11-24
+4011 cooker.py: runqueue: fix for "bitbake -g world"                                                          1       621 2016-11-22
+4008 fetch2: obey BB_ALLOWED_NETWORKS when checking network access                                            1     11543 2016-11-21
+3987 codeparser.py: support deeply nested tokens                                                              1     11503 2016-11-19
+3945 ast: remove BBVERSIONS support                                                                           1      4397 2016-11-17
+3937 data_smart: Default to expansion for getVar/getVarFlags                                                  1        59 2016-11-16
+3936 data: Drop deprecated old style bitbake API                                                              1        59 2016-11-16
+3935 lib/bb: Don't use deprecated bb.data.getVar/setVar API                                                   1        59 2016-11-16
+3920 fetch2: npm: conditionally hide NPM_LOCKDOWN / NPM_SHRINKWRAP warnings                                   1       207 2016-11-16
+3873 taskdata.py: improve handling of depends/rdepends                                                        1     11503 2016-11-14
+3872 data_smart.py: don't reorder internal bitbake variables when calculating hash                            1     11503 2016-11-14
+3842 toaster: add master branch back into new project options                                                 0     11903 2016-11-10
+3772 toaster: settings set ALLOWED_HOSTS to * in debug mode                                                   1     11491 2016-11-04
+3645 toaster: Fixes and clean ups                                                                             0     11673 2016-11-03
+3720 siggen: Ensure taskhash mismatches don't override existing data                                          1        59 2016-11-03
+3718 siggen: Pass basehash to worker processes and sanity check reparsing result                              1        59 2016-11-03
+3717 build: Ensure we preserve sigbasedata files as well as sigdata ones                                      1        59 2016-11-03
+3696 Fixes in exception handling                                                                              2     11543 2016-11-02
+3678 toaster event eventreplay tests                                                                          4     11491 2016-11-01
+3646 toaster: buildinfohelper Handle regex paths                                                              1     11491 2016-10-29
+3626 toasterui.py: warn if buildstats is missing                                                              1     11455 2016-10-29
+3625 toaster: fix if USER_CLASSES is missing buildstats                                                       1     11455 2016-10-28
+3618 lib/bb/cooker.py: fix for BBFILE_PATTERN = ""                                                            1       621 2016-10-27
+3454 bb.event: fix infinite loop on print_ui_queue                                                            1     11459 2016-10-15
+3467 Add morty/2.2/1.32 release information to toaster                                                        3     11491 2016-10-15
+3408 runqueue.py: Remove redundant whitelist checks                                                           1     11415 2016-10-12
+3378 COW.py: fix sample codes                                                                                 1       563 2016-10-09
+3367 runqueue: Optimise task id string manipulations                                                          1        59 2016-10-07
+3364 toaster: fix cloning of git+ssh repositories                                                             1     11673 2016-10-07
+3363 bb.runqueue: fix unexpected process death logic                                                          1        22 2016-10-07
+3359 ui/knotty.py: Fix signal handling of SIGWINCH in BBProgress                                              1     11459 2016-10-07
+3331 toaster: Delete project fixes and clean ups                                                              0     12013 2016-10-06
+3314 bb/event.py: fire_ui_handlers enable threading lock support                                              1     11459 2016-10-05
+2773 bb.build: in _exec_task, catch errors from TaskStarted                                                   1        22 2016-10-05
+3306 event: prevent unclosed file warning in print_ui_queue                                                   1     12113 2016-10-04
+3300 toaster: add Font Awesome license                                                                        1     12013 2016-10-04
+3272 data: Fix handling of vardepvalueexclude                                                                 1        59 2016-10-01
+3231 codeparser: Use hashlib for hashing, not hash()                                                          1     11275 2016-09-29
+3185 misc Toaster fixes from Ed                                                                               5     11491 2016-09-28
+2893 bitbake: Correct broken symlink behaviour                                                                1     12457 2016-09-27
+3165 bitbake warning fix: No bb files matched BBFILE_PATTERN_packageName                                      1     12473 2016-09-27
+3119 delete builds, projects, recipes, layers                                                                10     11673 2016-09-26
+3043 knotty: ensure progress bar output is accounted for in display                                           1       207 2016-09-23
+2995 knotty: Show task elapsed time                                                                           1        59 2016-09-22
+2971 cooker/providers: Only add target to world build if task exists                                          1        59 2016-09-22
+2949 fetch2: handle absolute paths in subdir                                                                  1      4397 2016-09-22
+2891 runqueue: Handle missing sstate dependencies better                                                      1        59 2016-09-21
+2883 bitbake: fetch: copy files with -H                                                                       1     12455 2016-09-21
+2867 uihelper: use elif instead of repeated if                                                                1      4397 2016-09-20
+2859 toaster: buildinfohelper stop constructiong local layer paths assuming git                               1     12013 2016-09-20
+2819 toaster: Add test for missing migrtions                                                                  1     12013 2016-09-19
+2817 toaster: UI fixes                                                                                        0     12013 2016-09-19
+2787 Bitbake 1.28-next                                                                                        3     11275 2016-09-17
+2775 Series without cover letter                                                                              2        22 2016-09-17
+2765 Series without cover letter                                                                              8     11491 2016-09-17
+2751 fetch2/git: always use premirror first if update is required                                             1     11483 2016-09-16
+2747 Series without cover letter                                                                              2        22 2016-09-16
+2745 cookerdata.py: Catch BBHandledException, preventing a backtrace in an event                              1       117 2016-09-16
+2743 Series without cover letter                                                                              0       117 2016-09-16
+2727 Config re-parse improvements                                                                             2     11543 2016-09-15
+2523 cooker: check if target contains task                                                                    1     11673 2016-09-15
+2709 build: Allow dirs/cleandirs to work for empty functions                                                  1        59 2016-09-15
+2707 Series without cover letter                                                                              1      6935 2016-09-15
+2625 Minor npm fetcher optimisation                                                                           1       207 2016-09-13
+2611 Make SRCREV_FORMAT name substitution safer                                                               1     12021 2016-09-13
+2605 bitbake: fetch2: Make SRCREV_FORMAT name substitution safer                                              1     12021 2016-09-13
+2467 event.py: output errors and warnings to stderr                                                           1     11673 2016-09-08
+2357 lib/bb/build: create .old symlink for run.do_xx and log.do_xx                                            1     10735 2016-09-06
+2343 npm fetcher fixes                                                                                        6       207 2016-09-06
+2327 Toaster patches                                                                                         11     11491 2016-09-06
+2321 cooker: record events on cooker exit                                                                     1     11673 2016-09-05
+2229 bb.fetch2.svn: correctly pass workdir when fetching                                                      1        22 2016-09-01
+2211 lib/bb/siggen.py: Prevent ResourceWarning exceptions                                                     1     10479 2016-09-01
+2201 build/runqueue: Add noextra stamp file parameter to fix multiconfig builds                               1        59 2016-08-31
+2199 fetch2: Handle multiconfig fetcher issues                                                                1        59 2016-08-31
+2173 Tinfoil fixes                                                                                            4       207 2016-08-31
+2151 toaster: Increase maximum length of file path of build artifact                                          1     11673 2016-08-30
+2149 toaster: Fix adding of bitbake variables containing ':'                                                  1     11673 2016-08-30
+2147 Fail gracefully if event handler function is not found                                                   1     11543 2016-08-30
+2125 Tinfoil fixes                                                                                            3       207 2016-08-30
+2065 wget: allow basic http auth for SSTATE_MIRRORS                                                           1     12251 2016-08-27
+2027 enable override for suffix just include digit and dot                                                    1     12425 2016-08-26
+1937 Series without cover letter                                                                              1     11735 2016-08-24
+1927 buildinfohelper: discover kernel artifacts correctly                                                     1     11673 2016-08-23
+1921 Add a syntax to unset variable from bitbake configuration file                                           1     12283 2016-08-23
+1883 Series without cover letter                                                                              9     11917 2016-08-23
+1863 question about BBVERSIONS OVERRIDES and PREFERRED_VERSION                                                1     12425 2016-08-22
+1847 fetch2: clean up remaining cwd saves/changes                                                             1     11631 2016-08-22
+1839 siggen: Fix file variable typo in compare_sigfiles                                                       1     10737 2016-08-20
+1769 Improvements to bitbake-selftest                                                                         4     11543 2016-08-19
+1763 New 'usehead' url paramter for git repos                                                                 2     11543 2016-08-19
+1761 toasterui, knotty: don't print taskid followed by taskstring which are now in most cases identical       1         7 2016-08-19
+1729 dump_cache.py: use python3 as interpreter                                                                1       621 2016-08-18
+1643 bitbake: Initial multi-config support                                                                    1        59 2016-08-17
+1631 Content-Transfer-Encoding: 8bit                                                                          1     12283 2016-08-16
+1565 cache: Build datastores from databuilder object                                                          1        59 2016-08-16
+1563 cache: Split Cache() into a NoCache() parent object                                                      1        59 2016-08-16
+1561 cache/cooker: Pass databuilder into bb.cache.Cache()                                                     1        59 2016-08-16
+1559 cache: Make virtualfn2realfn/realfn2virtual standalone functions                                         1        59 2016-08-16
+1557 cache/ast: Move __VARIANTS handling to parse cache function                                              1        59 2016-08-16
+1555 runqueue: Abstract worker functionality to an object/array                                               1        59 2016-08-16
+1553 cookerdata: Simplify prefiles/postfiles                                                                  1        59 2016-08-16
+1547 lib/bb/tests/fetch: remove URL that doesn't exist anymore                                                1      4397 2016-08-16
+1543 toaster: update web urls for openembedded-core's special case                                            1     11491 2016-08-15
+1411 Progress fixes                                                                                           4       207 2016-08-11
+1155 bb/utils.py: export_proxies add GIT_PROXY_COMMAND                                                        1     12167 2016-08-11
+1379 fetch2: preserve current working directory                                                               1     11631 2016-08-11
+1375 fetch2/gitannex.py: use 'git annex init' instead of 'git annex sync'                                     1     12391 2016-08-11
+1367 persist_data: Fix py3 update stack overflow                                                              1        59 2016-08-11
+1211 fetch2: save/restore cwd for mirror URL downloads                                                        1     11631 2016-08-09
+1239 BB_NO_NETWORK: Fallback to local source for git lsremote                                                 1     12397 2016-08-08
+1197 Series without cover letter                                                                              1     11735 2016-08-06
+1153 Use 'git annex init' instead of 'git annex sync'.                                                        1     12391 2016-08-05
+1151 toaster: tests test_new_project_page Catch button not enabled exception                                  1     11917 2016-08-05
+1105 bin/toaster: clean up unnecessary if statement and zsh fix.                                              2     11701 2016-08-04
+1097 fetch2/git: allow using 'HEAD' as a branch name                                                          1     11543 2016-08-04
+1071 toaster: --help now returns 0 instead of 1                                                               1     11415 2016-08-03
+1015 siggen: Fix typo                                                                                         1     12171 2016-08-01
+ 971 bitbake: fetch2: fix warning while switching from master to krogoth                                      1     11961 2016-07-29
+ 853 lib/bb/utils: show subprocess output in stack traces                                                     1      4397 2016-07-27
+ 829 Fix file checksum failure with broken symlinks                                                           1       207 2016-07-26
+ 819 lib/bb/build: handle incomplete message fragments in log FIFO                                            1      4397 2016-07-26
+ 763 Minor fixes for progress reporting                                                                       3       207 2016-07-22
+ 753 cache: Don't interleave pickle cache file writing                                                        1        59 2016-07-22
+ 751 cache: Add better cache loading sanity checks                                                            1        59 2016-07-22
+ 749 cache: Drop/simplify pointless type checking                                                             1        59 2016-07-22
+ 747 cache: Improve versions fields handling                                                                  1        59 2016-07-22
+ 705 cache: Correctly handle missing extra caches                                                             1        59 2016-07-22
+ 703 cache: Move the parsing message to a more logical place                                                  1        59 2016-07-22
+ 701 fetcher2/__init__: Print command in case of ExecutionError in runfetchcmd                                1     12373 2016-07-22
+ 699 Prevent removal of all columns on tasks and recipe tables                                                3     11673 2016-07-22
+ 697 toaster: fix download URL for task logs                                                                  1     11673 2016-07-22
+ 695 Add a syntax to clear variables and flags from a conf file                                               1     12375 2016-07-22
+ 687 Series without cover letter                                                                             10     11917 2016-07-21
+ 685 Series without cover letter                                                                             10     11917 2016-07-21
+ 655 Series without cover letter                                                                              2     11917 2016-07-21
+ 653 cooker: Fix incorrect dot file generation                                                                1        59 2016-07-21
+ 615 bitbake: implement idle timeout for xmlrpc server                                                        1     11673 2016-07-20
+ 613 bitbake: implement --foreground command line option                                                      1     11673 2016-07-20
+ 459 toaster-tests: add class SeleniumTestCaseBase for browser tests                                          1     11917 2016-07-20
+ 597 lib/bb/utils: no need to unsetenv when manipulating os.environ                                           1      4397 2016-07-20
+ 555 Autostart bitbake server                                                                                 3     11673 2016-07-19
+ 539 lib/bb/utils.py: return sorted OrderedDict in explode_dep_versions2                                      1       621 2016-07-18
+ 345 toaster: Better SDK artifacts and fstypes V2                                                             0     12013 2016-07-16
+ 457 lib/bb/build.py: decode the command as UTF-8                                                             1      4397 2016-07-15
+ 451 Fix for progress handling                                                                                1       207 2016-07-15
+ 423 build: don't use $B as the default cwd for functions                                                     1      4397 2016-07-15
+ 329 lib/bb/utils: fix set_process_name                                                                       1      4397 2016-07-13
+ 227 toaster: Artifact Selection Improvement                                                                  0     11903 2016-07-09
+ 165 progress: Ensure missing start event is fired                                                            1        59 2016-07-07
+ 163 knotty: Handle process indicators more gracefully                                                        1        59 2016-07-07
+ 139 add link to delete imported layer                                                                        0     11917 2016-07-07
+ 127 fixes for toaster-eventreplay                                                                            0     11917 2016-07-06
+ 129 Series without cover letter                                                                              0     11917 2016-07-06
+ 117 fetch2: implement progress support                                                                       1       207 2016-07-06
+  83 bitbake-worker: don't reassign sys.stdout                                                                1     11673 2016-07-05
+  71 Series without cover letter                                                                              2     11917 2016-07-05
+  59 toaster: fix layout for command-line builds in recent builds area                                        1     11491 2016-07-04
