@@ -1,0 +1,580 @@
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 59, "event_time": "2016-07-04T21:53:11", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 71, "event_time": "2016-07-05T01:42:47", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 83, "event_time": "2016-07-05T08:04:10", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 117, "event_time": "2016-07-06T14:26:27", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 163, "event_time": "2016-07-07T23:26:46", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 165, "event_time": "2016-07-07T23:27:51", "patch": null, "user": 103}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 59, "event_time": "2016-07-08T19:00:09", "patch": 126073, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 127, "event_time": "2016-07-08T19:00:10", "patch": 126507, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 129, "event_time": "2016-07-08T19:00:12", "patch": 126497, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 129, "event_time": "2016-07-08T19:00:14", "patch": 126501, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 127, "event_time": "2016-07-08T19:00:15", "patch": 126509, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 129, "event_time": "2016-07-08T19:00:17", "patch": 126505, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 129, "event_time": "2016-07-08T19:00:18", "patch": 126503, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 129, "event_time": "2016-07-08T19:00:19", "patch": 126499, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 139, "event_time": "2016-07-08T19:00:21", "patch": 126521, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 139, "event_time": "2016-07-08T19:00:22", "patch": 126525, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 139, "event_time": "2016-07-08T19:00:24", "patch": 126527, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 139, "event_time": "2016-07-08T19:00:25", "patch": 126523, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 329, "event_time": "2016-07-13T01:15:38", "patch": null, "user": 10041}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 423, "event_time": "2016-07-15T04:56:34", "patch": null, "user": 10041}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 451, "event_time": "2016-07-15T18:55:27", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 457, "event_time": "2016-07-15T20:27:39", "patch": null, "user": 10041}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 459, "event_time": "2016-07-15T20:32:27", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 539, "event_time": "2016-07-18T13:43:00", "patch": null, "user": 10065}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 539, "event_time": "2016-07-18T13:43:12", "patch": null, "user": 10065}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 555, "event_time": "2016-07-19T02:32:32", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 451, "event_time": "2016-07-19T18:01:12", "patch": 127185, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:14", "patch": 127271, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:15", "patch": 126943, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:17", "patch": 126941, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:18", "patch": 126945, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:19", "patch": 126947, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:20", "patch": 126949, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:22", "patch": 126953, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:23", "patch": 126955, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:24", "patch": 126959, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:25", "patch": 126971, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:26", "patch": 126965, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:27", "patch": 126961, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:29", "patch": 126969, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:30", "patch": 126967, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:31", "patch": 126963, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 345, "event_time": "2016-07-19T18:01:32", "patch": 126957, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 117, "event_time": "2016-07-20T00:06:21", "patch": 126479, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 597, "event_time": "2016-07-20T00:19:17", "patch": null, "user": 10041}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 459, "event_time": "2016-07-20T01:49:31", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 3}, "series": 459, "event_time": "2016-07-20T01:52:40", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 613, "event_time": "2016-07-20T06:19:09", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 615, "event_time": "2016-07-20T06:45:07", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 653, "event_time": "2016-07-21T01:08:32", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 655, "event_time": "2016-07-21T02:37:48", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 685, "event_time": "2016-07-21T23:39:55", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 687, "event_time": "2016-07-21T23:44:44", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 695, "event_time": "2016-07-22T00:29:16", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 697, "event_time": "2016-07-22T01:42:53", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 699, "event_time": "2016-07-22T02:00:14", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 701, "event_time": "2016-07-22T02:06:11", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 703, "event_time": "2016-07-22T02:25:35", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 705, "event_time": "2016-07-22T02:27:48", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 747, "event_time": "2016-07-22T20:27:42", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 749, "event_time": "2016-07-22T20:28:01", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 751, "event_time": "2016-07-22T20:28:30", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 753, "event_time": "2016-07-22T20:29:05", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 763, "event_time": "2016-07-22T22:19:45", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 819, "event_time": "2016-07-26T08:32:46", "patch": null, "user": 10041}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 829, "event_time": "2016-07-26T13:37:19", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 829, "event_time": "2016-07-26T13:37:28", "patch": null, "user": 283}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 763, "event_time": "2016-07-26T17:18:07", "patch": 127801, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 763, "event_time": "2016-07-26T17:18:28", "patch": 127803, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 763, "event_time": "2016-07-26T17:18:50", "patch": 127805, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 701, "event_time": "2016-07-26T17:20:56", "patch": 127711, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 853, "event_time": "2016-07-27T00:15:17", "patch": null, "user": 10041}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 971, "event_time": "2016-07-29T18:24:20", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 829, "event_time": "2016-07-29T18:56:10", "patch": 127935, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1015, "event_time": "2016-08-01T19:01:23", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1071, "event_time": "2016-08-03T09:44:11", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1097, "event_time": "2016-08-04T00:06:36", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1105, "event_time": "2016-08-04T05:58:22", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1151, "event_time": "2016-08-05T18:27:17", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1153, "event_time": "2016-08-05T18:46:15", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1155, "event_time": "2016-08-05T18:46:16", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 1155, "event_time": "2016-08-05T18:46:16", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1197, "event_time": "2016-08-06T07:57:29", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1211, "event_time": "2016-08-07T23:38:11", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1239, "event_time": "2016-08-08T18:43:54", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 1211, "event_time": "2016-08-09T08:44:20", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1367, "event_time": "2016-08-11T01:00:47", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1375, "event_time": "2016-08-11T01:31:50", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1379, "event_time": "2016-08-11T03:09:01", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 3}, "series": 1155, "event_time": "2016-08-11T07:00:04", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1367, "event_time": "2016-08-11T09:07:49", "patch": 128899, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1015, "event_time": "2016-08-11T09:07:51", "patch": 128299, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1071, "event_time": "2016-08-11T09:07:52", "patch": 128375, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 1411, "event_time": "2016-08-11T13:38:22", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1543, "event_time": "2016-08-15T20:41:50", "patch": null, "user": 13943}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1547, "event_time": "2016-08-16T00:21:04", "patch": null, "user": 10041}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1553, "event_time": "2016-08-16T02:57:45", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1555, "event_time": "2016-08-16T02:58:49", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1557, "event_time": "2016-08-16T03:00:04", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1559, "event_time": "2016-08-16T03:00:55", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1561, "event_time": "2016-08-16T03:02:08", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1563, "event_time": "2016-08-16T03:02:47", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1565, "event_time": "2016-08-16T03:03:36", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1631, "event_time": "2016-08-16T22:05:15", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1643, "event_time": "2016-08-17T03:05:00", "patch": null, "user": 103}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1543, "event_time": "2016-08-17T19:24:39", "patch": 129223, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1411, "event_time": "2016-08-17T19:24:41", "patch": 128959, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1411, "event_time": "2016-08-17T19:24:42", "patch": 128965, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1411, "event_time": "2016-08-17T19:24:43", "patch": 128961, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1155, "event_time": "2016-08-17T19:24:44", "patch": 128507, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1729, "event_time": "2016-08-18T18:26:28", "patch": null, "user": 10065}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 1729, "event_time": "2016-08-18T18:26:53", "patch": null, "user": 10065}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1411, "event_time": "2016-08-18T19:08:06", "patch": 128963, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1761, "event_time": "2016-08-19T01:06:44", "patch": null, "user": 7}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1763, "event_time": "2016-08-19T02:12:20", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 1769, "event_time": "2016-08-19T02:56:08", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1839, "event_time": "2016-08-20T18:58:54", "patch": null, "user": 9933}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1769, "event_time": "2016-08-21T01:09:58", "patch": 129565, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1769, "event_time": "2016-08-21T01:09:59", "patch": 129571, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1769, "event_time": "2016-08-21T01:10:01", "patch": 129567, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1769, "event_time": "2016-08-21T01:10:02", "patch": 129569, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1763, "event_time": "2016-08-21T01:10:03", "patch": 129549, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1763, "event_time": "2016-08-21T01:10:04", "patch": 129551, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1761, "event_time": "2016-08-21T01:10:05", "patch": 129543, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1839, "event_time": "2016-08-21T01:12:08", "patch": 129709, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1847, "event_time": "2016-08-22T01:03:37", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1863, "event_time": "2016-08-22T19:57:02", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1883, "event_time": "2016-08-23T01:49:17", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1921, "event_time": "2016-08-23T19:45:25", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1927, "event_time": "2016-08-23T21:18:57", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 1937, "event_time": "2016-08-24T01:09:08", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 1847, "event_time": "2016-08-26T07:54:31", "patch": 129721, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2027, "event_time": "2016-08-26T15:35:11", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2065, "event_time": "2016-08-27T03:41:39", "patch": null, "user": 12243}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 2125, "event_time": "2016-08-30T14:37:56", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2147, "event_time": "2016-08-30T19:53:54", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2149, "event_time": "2016-08-30T20:19:23", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2151, "event_time": "2016-08-30T20:30:50", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 2173, "event_time": "2016-08-31T06:49:00", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2199, "event_time": "2016-08-31T20:34:30", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2201, "event_time": "2016-08-31T20:38:05", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2211, "event_time": "2016-09-01T00:36:40", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2229, "event_time": "2016-09-01T05:57:19", "patch": null, "user": 20}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2125, "event_time": "2016-09-03T03:11:06", "patch": 130541, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2125, "event_time": "2016-09-03T03:11:08", "patch": 130543, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2173, "event_time": "2016-09-03T03:11:09", "patch": 130675, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2147, "event_time": "2016-09-03T03:11:11", "patch": 130609, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2065, "event_time": "2016-09-03T03:11:12", "patch": 130333, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2229, "event_time": "2016-09-03T03:11:18", "patch": 130783, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2321, "event_time": "2016-09-05T21:28:00", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2327, "event_time": "2016-09-06T00:30:24", "patch": null, "user": 13943}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2343, "event_time": "2016-09-06T08:58:44", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2357, "event_time": "2016-09-06T21:53:31", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2343, "event_time": "2016-09-08T09:42:07", "patch": 131027, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2343, "event_time": "2016-09-08T09:42:28", "patch": 131031, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2343, "event_time": "2016-09-08T09:42:49", "patch": 131033, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2343, "event_time": "2016-09-08T09:43:10", "patch": 131035, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2343, "event_time": "2016-09-08T09:43:32", "patch": 131037, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2343, "event_time": "2016-09-08T09:43:53", "patch": 131039, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:44:14", "patch": 130985, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:44:35", "patch": 130987, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:44:56", "patch": 130989, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:45:17", "patch": 130991, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:45:38", "patch": 130993, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:45:59", "patch": 130995, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:46:20", "patch": 130997, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:46:41", "patch": 130999, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:47:03", "patch": 131005, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:47:24", "patch": 131001, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2327, "event_time": "2016-09-08T09:47:45", "patch": 131003, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2467, "event_time": "2016-09-08T21:02:58", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2523, "event_time": "2016-09-10T00:49:26", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2605, "event_time": "2016-09-13T06:17:07", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2611, "event_time": "2016-09-13T08:00:41", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 2611, "event_time": "2016-09-13T08:34:00", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 3}, "series": 2611, "event_time": "2016-09-13T08:40:53", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2625, "event_time": "2016-09-13T12:12:14", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 2625, "event_time": "2016-09-13T12:12:25", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2707, "event_time": "2016-09-15T07:23:45", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2709, "event_time": "2016-09-15T07:29:54", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 2523, "event_time": "2016-09-15T18:26:51", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2727, "event_time": "2016-09-15T21:21:08", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 2727, "event_time": "2016-09-15T21:21:14", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2625, "event_time": "2016-09-15T21:22:09", "patch": 131505, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2745, "event_time": "2016-09-16T06:57:27", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2747, "event_time": "2016-09-16T07:16:12", "patch": null, "user": 20}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2751, "event_time": "2016-09-16T19:33:24", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2727, "event_time": "2016-09-17T00:26:06", "patch": 131647, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2727, "event_time": "2016-09-17T00:26:27", "patch": 131645, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2765, "event_time": "2016-09-17T02:23:05", "patch": null, "user": 13943}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2773, "event_time": "2016-09-17T06:00:59", "patch": null, "user": 20}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2775, "event_time": "2016-09-17T06:05:22", "patch": null, "user": 20}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2787, "event_time": "2016-09-17T09:37:14", "patch": null, "user": 9997}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2819, "event_time": "2016-09-19T12:36:35", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2859, "event_time": "2016-09-20T11:43:05", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 2859, "event_time": "2016-09-20T11:43:29", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2867, "event_time": "2016-09-20T18:00:54", "patch": null, "user": 10041}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2883, "event_time": "2016-09-21T00:16:00", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2891, "event_time": "2016-09-21T01:27:10", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2893, "event_time": "2016-09-21T02:23:19", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2949, "event_time": "2016-09-22T02:49:09", "patch": null, "user": 10041}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2817, "event_time": "2016-09-22T06:58:52", "patch": 131853, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2817, "event_time": "2016-09-22T06:58:53", "patch": 131857, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2817, "event_time": "2016-09-22T06:58:54", "patch": 131855, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2707, "event_time": "2016-09-22T06:58:55", "patch": 131621, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2745, "event_time": "2016-09-22T06:58:56", "patch": 131669, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2765, "event_time": "2016-09-22T06:58:57", "patch": 131721, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2765, "event_time": "2016-09-22T06:58:59", "patch": 131723, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2765, "event_time": "2016-09-22T06:59:00", "patch": 131725, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2765, "event_time": "2016-09-22T06:59:01", "patch": 131727, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2765, "event_time": "2016-09-22T06:59:02", "patch": 131729, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2765, "event_time": "2016-09-22T06:59:03", "patch": 131731, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2765, "event_time": "2016-09-22T06:59:04", "patch": 131733, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2765, "event_time": "2016-09-22T06:59:05", "patch": 131735, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2819, "event_time": "2016-09-22T06:59:07", "patch": 131859, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2859, "event_time": "2016-09-22T06:59:08", "patch": 131921, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 2747, "event_time": "2016-09-22T07:20:35", "patch": 131677, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2971, "event_time": "2016-09-22T07:32:07", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 2995, "event_time": "2016-09-22T22:54:56", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 2893, "event_time": "2016-09-23T21:14:11", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3043, "event_time": "2016-09-23T21:44:12", "patch": null, "user": 283}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3043, "event_time": "2016-09-24T00:02:44", "patch": 132213, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 3119, "event_time": "2016-09-26T21:00:48", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3165, "event_time": "2016-09-27T16:24:47", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 3}, "series": 2893, "event_time": "2016-09-27T20:23:08", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3185, "event_time": "2016-09-28T01:17:43", "patch": null, "user": 13943}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3231, "event_time": "2016-09-29T01:07:03", "patch": null, "user": 9997}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3119, "event_time": "2016-10-01T01:53:11", "patch": 132323, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3119, "event_time": "2016-10-01T01:53:12", "patch": 132325, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3119, "event_time": "2016-10-01T01:53:13", "patch": 132327, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3119, "event_time": "2016-10-01T01:53:14", "patch": 132329, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3119, "event_time": "2016-10-01T01:53:15", "patch": 132339, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3119, "event_time": "2016-10-01T01:53:16", "patch": 132331, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3119, "event_time": "2016-10-01T01:53:17", "patch": 132337, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3119, "event_time": "2016-10-01T01:53:17", "patch": 132335, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3119, "event_time": "2016-10-01T01:53:18", "patch": 132333, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3119, "event_time": "2016-10-01T01:53:19", "patch": 132341, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3185, "event_time": "2016-10-01T01:53:21", "patch": 132443, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3185, "event_time": "2016-10-01T01:53:21", "patch": 132445, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3185, "event_time": "2016-10-01T01:53:22", "patch": 132447, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3185, "event_time": "2016-10-01T01:53:23", "patch": 132449, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3185, "event_time": "2016-10-01T01:53:24", "patch": 132451, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3272, "event_time": "2016-10-01T02:46:01", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3300, "event_time": "2016-10-04T10:55:10", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3306, "event_time": "2016-10-04T21:04:43", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 2773, "event_time": "2016-10-05T03:11:37", "patch": null, "user": 20}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3314, "event_time": "2016-10-05T03:43:05", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 3314, "event_time": "2016-10-05T08:21:41", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3314, "event_time": "2016-10-05T20:13:08", "patch": 132677, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3306, "event_time": "2016-10-05T20:28:12", "patch": 132652, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3300, "event_time": "2016-10-05T20:30:54", "patch": 132640, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3331, "event_time": "2016-10-06T21:44:26", "patch": 132697, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3331, "event_time": "2016-10-06T21:44:47", "patch": 132698, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3331, "event_time": "2016-10-06T21:45:09", "patch": 132699, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3331, "event_time": "2016-10-06T21:45:30", "patch": 132702, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3331, "event_time": "2016-10-06T21:45:52", "patch": 132700, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3331, "event_time": "2016-10-06T21:46:13", "patch": 132701, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3359, "event_time": "2016-10-07T08:58:01", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3363, "event_time": "2016-10-07T15:13:33", "patch": null, "user": 20}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3364, "event_time": "2016-10-07T17:58:38", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3367, "event_time": "2016-10-07T18:29:14", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3378, "event_time": "2016-10-09T19:35:13", "patch": null, "user": 10073}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3359, "event_time": "2016-10-09T22:34:28", "patch": 132743, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3363, "event_time": "2016-10-09T22:34:29", "patch": 132747, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3408, "event_time": "2016-10-12T09:36:33", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3408, "event_time": "2016-10-12T09:45:03", "patch": 132836, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3454, "event_time": "2016-10-14T10:28:55", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3467, "event_time": "2016-10-15T02:38:14", "patch": null, "user": 13943}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 3454, "event_time": "2016-10-15T02:52:45", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3454, "event_time": "2016-10-15T20:06:51", "patch": 132935, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3467, "event_time": "2016-10-15T23:24:44", "patch": 132932, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3467, "event_time": "2016-10-15T23:25:05", "patch": 132933, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3467, "event_time": "2016-10-15T23:25:26", "patch": 132934, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3618, "event_time": "2016-10-27T20:00:45", "patch": null, "user": 10065}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 3618, "event_time": "2016-10-27T20:01:10", "patch": null, "user": 10065}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3625, "event_time": "2016-10-28T03:47:03", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3626, "event_time": "2016-10-28T03:47:09", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 3626, "event_time": "2016-10-29T01:17:43", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3646, "event_time": "2016-10-29T04:19:31", "patch": null, "user": 13943}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 3646, "event_time": "2016-10-29T04:19:57", "patch": null, "user": 13943}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3678, "event_time": "2016-11-01T03:40:57", "patch": null, "user": 13943}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 3696, "event_time": "2016-11-02T02:12:44", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3717, "event_time": "2016-11-03T02:16:34", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3718, "event_time": "2016-11-03T02:16:52", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3720, "event_time": "2016-11-03T02:16:55", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3772, "event_time": "2016-11-04T23:54:28", "patch": null, "user": 13943}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3696, "event_time": "2016-11-04T23:56:37", "patch": 133468, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3696, "event_time": "2016-11-04T23:56:58", "patch": 133469, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3645, "event_time": "2016-11-04T23:57:19", "patch": 133346, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3645, "event_time": "2016-11-04T23:57:51", "patch": 133348, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3645, "event_time": "2016-11-04T23:58:13", "patch": 133520, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3645, "event_time": "2016-11-04T23:58:35", "patch": 133350, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3645, "event_time": "2016-11-04T23:58:57", "patch": 133349, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3645, "event_time": "2016-11-04T23:59:18", "patch": 133351, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3645, "event_time": "2016-11-04T23:59:39", "patch": 133352, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3678, "event_time": "2016-11-05T00:00:21", "patch": 133411, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3678, "event_time": "2016-11-05T00:00:42", "patch": 133412, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3678, "event_time": "2016-11-05T00:01:04", "patch": 133413, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3678, "event_time": "2016-11-05T00:01:25", "patch": 133414, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3626, "event_time": "2016-11-05T00:01:46", "patch": 133314, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3872, "event_time": "2016-11-14T20:44:11", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3873, "event_time": "2016-11-14T20:44:27", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3920, "event_time": "2016-11-16T07:18:16", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3935, "event_time": "2016-11-16T22:19:51", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3936, "event_time": "2016-11-16T22:33:25", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3937, "event_time": "2016-11-16T22:33:32", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3945, "event_time": "2016-11-17T04:34:07", "patch": null, "user": 10041}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 3987, "event_time": "2016-11-19T02:42:56", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4008, "event_time": "2016-11-21T23:31:55", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4011, "event_time": "2016-11-22T01:31:46", "patch": null, "user": 10065}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3920, "event_time": "2016-11-23T22:00:44", "patch": 133901, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3872, "event_time": "2016-11-23T22:00:47", "patch": 133826, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3873, "event_time": "2016-11-23T22:00:48", "patch": 133827, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3842, "event_time": "2016-11-23T22:00:50", "patch": 133759, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3842, "event_time": "2016-11-23T22:00:51", "patch": 133760, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4057, "event_time": "2016-11-24T06:10:34", "patch": null, "user": 10401}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4066, "event_time": "2016-11-24T18:41:30", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4067, "event_time": "2016-11-24T18:41:47", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4073, "event_time": "2016-11-24T22:43:00", "patch": null, "user": 13943}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4094, "event_time": "2016-11-26T09:16:29", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4114, "event_time": "2016-11-29T01:35:20", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4136, "event_time": "2016-11-29T20:57:49", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 5}, "series": 4116, "event_time": "2016-11-30T03:49:37", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 4116, "event_time": "2016-11-30T03:49:37", "patch": 134373, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 4116, "event_time": "2016-11-30T03:49:37", "patch": 134374, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 4116, "event_time": "2016-11-30T03:49:37", "patch": 134375, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 4116, "event_time": "2016-11-30T03:49:37", "patch": 134376, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4172, "event_time": "2016-11-30T23:43:28", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4203, "event_time": "2016-12-01T14:31:51", "patch": null, "user": 10401}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4248, "event_time": "2016-12-06T04:48:57", "patch": null, "user": 16268}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 4136, "event_time": "2016-12-06T18:17:44", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 4136, "event_time": "2016-12-06T18:17:44", "patch": 134419, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "Superseded"}, "series": 4116, "event_time": "2016-12-07T21:44:21", "patch": 134373, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4116, "event_time": "2016-12-07T21:44:23", "patch": 134430, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "Superseded"}, "series": 4116, "event_time": "2016-12-07T21:44:24", "patch": 134375, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "Superseded"}, "series": 4116, "event_time": "2016-12-07T21:44:25", "patch": 134376, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4172, "event_time": "2016-12-07T21:44:26", "patch": 134498, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4248, "event_time": "2016-12-07T21:44:28", "patch": 134664, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4285, "event_time": "2016-12-07T23:05:17", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4286, "event_time": "2016-12-07T23:07:19", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4289, "event_time": "2016-12-07T23:31:33", "patch": null, "user": 103}
+{"name": "patch-state-change", "parameters": {"new_state": "Not Applicable", "previous_state": "New"}, "series": 4067, "event_time": "2016-12-08T00:36:22", "patch": 134264, "user": 16603}
+{"name": "patch-state-change", "parameters": {"new_state": "Not Applicable", "previous_state": "New"}, "series": 4066, "event_time": "2016-12-08T00:36:37", "patch": 134263, "user": 16603}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 3987, "event_time": "2016-12-08T00:36:50", "patch": 134001, "user": 16603}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4292, "event_time": "2016-12-08T01:33:28", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4302, "event_time": "2016-12-08T19:43:21", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4314, "event_time": "2016-12-09T13:27:34", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4326, "event_time": "2016-12-10T03:53:35", "patch": null, "user": 13943}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:45:59", "patch": 134964, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:00", "patch": 134965, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:01", "patch": 134966, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:02", "patch": 134967, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:03", "patch": 134968, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:04", "patch": 134969, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:05", "patch": 134970, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:06", "patch": 134971, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:07", "patch": 134972, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:08", "patch": 134973, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:09", "patch": 134974, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:10", "patch": 134975, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:11", "patch": 134976, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4326, "event_time": "2016-12-13T07:46:12", "patch": 134977, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4357, "event_time": "2016-12-13T08:54:28", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4362, "event_time": "2016-12-13T18:09:09", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 4314, "event_time": "2016-12-14T17:05:54", "patch": null, "user": 283}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 4314, "event_time": "2016-12-14T17:05:54", "patch": 134932, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:26:21", "patch": 135036, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:26:42", "patch": 135037, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:27:03", "patch": 135038, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:27:24", "patch": 135039, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:27:45", "patch": 135040, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:28:06", "patch": 135041, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:28:27", "patch": 135042, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:28:27", "patch": 135042, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:28:48", "patch": 135043, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:29:09", "patch": 135044, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:29:09", "patch": 135044, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:29:30", "patch": 135045, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:29:52", "patch": 135048, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:30:13", "patch": 135046, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:30:16", "patch": 135047, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:30:17", "patch": 135049, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:30:18", "patch": 135050, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4362, "event_time": "2016-12-14T23:30:18", "patch": 135050, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4357, "event_time": "2016-12-14T23:30:19", "patch": 135030, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4391, "event_time": "2016-12-15T08:05:18", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 3}, "series": 4314, "event_time": "2016-12-16T05:09:45", "patch": null, "user": 283}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 4314, "event_time": "2016-12-16T05:09:45", "patch": 135107, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4432, "event_time": "2016-12-16T20:32:56", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4433, "event_time": "2016-12-16T21:05:49", "patch": null, "user": 103}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4391, "event_time": "2016-12-16T21:24:06", "patch": 135129, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4433, "event_time": "2016-12-16T21:24:08", "patch": 135206, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4433, "event_time": "2016-12-16T21:24:10", "patch": 135207, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4314, "event_time": "2016-12-21T02:23:31", "patch": 135189, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4432, "event_time": "2016-12-21T02:23:33", "patch": 135205, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4494, "event_time": "2016-12-21T13:41:39", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4495, "event_time": "2016-12-21T13:50:11", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4494, "event_time": "2016-12-21T19:17:35", "patch": 135369, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4494, "event_time": "2016-12-21T19:17:35", "patch": 135369, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4513, "event_time": "2016-12-22T04:06:52", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4518, "event_time": "2016-12-22T07:24:28", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:28", "patch": 135410, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:28", "patch": 135410, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:29", "patch": 135413, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:29", "patch": 135413, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:31", "patch": 135409, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:32", "patch": 135411, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:32", "patch": 135411, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:33", "patch": 135408, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:33", "patch": 135408, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:34", "patch": 135412, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:34", "patch": 135412, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 4513, "event_time": "2016-12-22T23:37:35", "patch": 135414, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4638, "event_time": "2017-01-05T10:48:58", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 4638, "event_time": "2017-01-06T00:52:25", "patch": null, "user": 103}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 4638, "event_time": "2017-01-06T00:52:25", "patch": 135613, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4661, "event_time": "2017-01-06T10:42:20", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4663, "event_time": "2017-01-06T20:51:33", "patch": null, "user": 16603}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4666, "event_time": "2017-01-06T23:37:23", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4669, "event_time": "2017-01-07T03:47:28", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4689, "event_time": "2017-01-10T01:19:37", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4693, "event_time": "2017-01-10T03:20:17", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4737, "event_time": "2017-01-12T11:44:29", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4746, "event_time": "2017-01-12T21:50:04", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4751, "event_time": "2017-01-13T06:28:04", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4760, "event_time": "2017-01-13T10:44:19", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4772, "event_time": "2017-01-14T01:51:40", "patch": null, "user": 16603}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4788, "event_time": "2017-01-15T14:17:28", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4792, "event_time": "2017-01-16T06:17:35", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4846, "event_time": "2017-01-20T03:13:52", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 4772, "event_time": "2017-01-20T06:35:57", "patch": null, "user": 16603}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 4772, "event_time": "2017-01-20T06:35:57", "patch": 135857, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 4772, "event_time": "2017-01-20T06:35:57", "patch": 135858, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4922, "event_time": "2017-01-24T09:38:38", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4925, "event_time": "2017-01-24T10:26:18", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 4925, "event_time": "2017-01-24T10:26:20", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 4941, "event_time": "2017-01-25T03:32:45", "patch": null, "user": 16603}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5068, "event_time": "2017-01-31T07:14:32", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5107, "event_time": "2017-02-02T08:09:30", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5125, "event_time": "2017-02-03T09:26:23", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5162, "event_time": "2017-02-07T03:53:49", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5168, "event_time": "2017-02-07T07:09:11", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5226, "event_time": "2017-02-09T14:42:57", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5229, "event_time": "2017-02-09T17:42:10", "patch": null, "user": 5}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5247, "event_time": "2017-02-10T10:07:51", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5285, "event_time": "2017-02-13T22:36:50", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5286, "event_time": "2017-02-13T22:49:02", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5287, "event_time": "2017-02-13T23:01:13", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5376, "event_time": "2017-02-17T20:39:47", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5394, "event_time": "2017-02-20T01:16:31", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5424, "event_time": "2017-02-21T22:37:43", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5434, "event_time": "2017-02-22T02:19:49", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5436, "event_time": "2017-02-22T03:35:00", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5468, "event_time": "2017-02-23T21:13:30", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5469, "event_time": "2017-02-23T21:22:36", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5506, "event_time": "2017-02-25T03:35:23", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5512, "event_time": "2017-02-25T07:53:07", "patch": null, "user": 10}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5553, "event_time": "2017-02-28T10:14:23", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5591, "event_time": "2017-03-02T10:56:58", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5610, "event_time": "2017-03-03T11:18:25", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5612, "event_time": "2017-03-03T11:22:11", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5613, "event_time": "2017-03-03T11:24:32", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5663, "event_time": "2017-03-07T09:04:08", "patch": null, "user": 10401}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5689, "event_time": "2017-03-08T13:54:57", "patch": null, "user": 2721}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 5689, "event_time": "2017-03-08T13:57:36", "patch": null, "user": 2721}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 5689, "event_time": "2017-03-08T13:57:36", "patch": 137876, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 3}, "series": 5689, "event_time": "2017-03-09T07:24:48", "patch": null, "user": 2721}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 5689, "event_time": "2017-03-09T07:24:48", "patch": 137877, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5749, "event_time": "2017-03-11T16:22:51", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5753, "event_time": "2017-03-11T16:30:14", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5754, "event_time": "2017-03-11T16:30:39", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5810, "event_time": "2017-03-15T13:36:41", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5840, "event_time": "2017-03-16T23:55:28", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5860, "event_time": "2017-03-17T20:20:39", "patch": null, "user": 16603}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5865, "event_time": "2017-03-18T02:55:02", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5868, "event_time": "2017-03-18T06:44:23", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5878, "event_time": "2017-03-20T15:06:35", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5879, "event_time": "2017-03-20T15:07:16", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5908, "event_time": "2017-03-22T05:41:25", "patch": null, "user": 20}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5911, "event_time": "2017-03-22T07:27:32", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5913, "event_time": "2017-03-22T08:10:47", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5921, "event_time": "2017-03-23T00:36:21", "patch": null, "user": 16603}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 5982, "event_time": "2017-03-27T11:18:04", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6010, "event_time": "2017-03-28T11:51:36", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6020, "event_time": "2017-03-28T22:45:49", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6025, "event_time": "2017-03-29T00:28:55", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 6020, "event_time": "2017-03-29T00:54:41", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 6020, "event_time": "2017-03-29T00:54:41", "patch": 138520, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 6010, "event_time": "2017-03-29T07:42:09", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6045, "event_time": "2017-03-29T20:51:28", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6066, "event_time": "2017-03-30T13:27:14", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 6045, "event_time": "2017-03-30T19:53:40", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 6045, "event_time": "2017-03-30T19:53:40", "patch": 138573, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6077, "event_time": "2017-03-30T21:45:06", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6083, "event_time": "2017-03-31T00:34:23", "patch": null, "user": 10041}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6106, "event_time": "2017-04-01T02:00:29", "patch": null, "user": 18496}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6115, "event_time": "2017-04-03T09:20:00", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6125, "event_time": "2017-04-03T23:16:18", "patch": null, "user": 18496}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6156, "event_time": "2017-04-05T17:22:34", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6158, "event_time": "2017-04-05T19:07:11", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6177, "event_time": "2017-04-06T07:33:20", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6178, "event_time": "2017-04-06T07:34:23", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6180, "event_time": "2017-04-06T08:28:00", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6197, "event_time": "2017-04-06T21:24:50", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6213, "event_time": "2017-04-07T07:53:21", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6241, "event_time": "2017-04-09T03:33:59", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6246, "event_time": "2017-04-10T15:17:14", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 6246, "event_time": "2017-04-10T15:23:06", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6261, "event_time": "2017-04-10T20:50:57", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6264, "event_time": "2017-04-10T23:39:32", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 6241, "event_time": "2017-04-11T01:51:10", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 6241, "event_time": "2017-04-11T01:51:10", "patch": 138965, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6277, "event_time": "2017-04-11T08:36:00", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6294, "event_time": "2017-04-11T23:08:10", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6298, "event_time": "2017-04-12T00:17:37", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6308, "event_time": "2017-04-12T13:29:23", "patch": null, "user": 10189}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6322, "event_time": "2017-04-13T02:03:10", "patch": null, "user": 17171}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6431, "event_time": "2017-04-20T12:21:43", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6433, "event_time": "2017-04-20T15:51:09", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6696, "event_time": "2017-05-12T18:26:27", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6705, "event_time": "2017-05-13T07:07:16", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6706, "event_time": "2017-05-13T07:47:07", "patch": null, "user": 20}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6714, "event_time": "2017-05-15T07:31:13", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6790, "event_time": "2017-05-19T02:09:35", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6846, "event_time": "2017-05-22T20:50:38", "patch": null, "user": 16603}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6914, "event_time": "2017-05-26T12:19:12", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6946, "event_time": "2017-05-27T20:22:01", "patch": null, "user": 10065}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 6914, "event_time": "2017-05-29T10:44:14", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 6914, "event_time": "2017-05-29T10:44:14", "patch": 140188, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 6984, "event_time": "2017-05-31T18:28:39", "patch": null, "user": 17171}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 6984, "event_time": "2017-05-31T18:44:14", "patch": null, "user": 17171}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 6984, "event_time": "2017-05-31T18:44:14", "patch": 140325, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 3}, "series": 6984, "event_time": "2017-05-31T18:46:53", "patch": null, "user": 17171}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 6984, "event_time": "2017-05-31T18:46:53", "patch": 140329, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 5436, "event_time": "2017-06-01T07:27:49", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 5436, "event_time": "2017-06-01T07:27:49", "patch": 137484, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 5436, "event_time": "2017-06-01T07:27:49", "patch": 137485, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 5436, "event_time": "2017-06-01T07:27:50", "patch": 137486, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7035, "event_time": "2017-06-02T23:02:54", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 3}, "series": 6914, "event_time": "2017-06-05T18:44:05", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Superseded", "previous_state": "New"}, "series": 6914, "event_time": "2017-06-05T18:44:05", "patch": 140273, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7082, "event_time": "2017-06-06T13:28:10", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 2}, "series": 6846, "event_time": "2017-06-07T19:03:38", "patch": null, "user": 16603}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7109, "event_time": "2017-06-07T22:38:20", "patch": null, "user": 103}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7113, "event_time": "2017-06-07T23:56:46", "patch": null, "user": 16603}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7123, "event_time": "2017-06-08T05:05:17", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7164, "event_time": "2017-06-09T23:35:40", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7169, "event_time": "2017-06-10T01:14:39", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7199, "event_time": "2017-06-13T03:12:26", "patch": null, "user": null}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7123, "event_time": "2017-06-13T08:02:19", "patch": 140562, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7082, "event_time": "2017-06-13T08:02:20", "patch": 140498, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7109, "event_time": "2017-06-13T08:02:21", "patch": 140542, "user": 981}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7220, "event_time": "2017-06-14T02:22:09", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7230, "event_time": "2017-06-14T10:46:54", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7237, "event_time": "2017-06-14T20:11:14", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7244, "event_time": "2017-06-15T05:30:35", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7250, "event_time": "2017-06-15T14:50:13", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7251, "event_time": "2017-06-15T14:54:08", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7252, "event_time": "2017-06-15T14:57:25", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7253, "event_time": "2017-06-15T15:00:19", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7254, "event_time": "2017-06-15T15:03:21", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7255, "event_time": "2017-06-15T15:06:20", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7270, "event_time": "2017-06-16T00:34:05", "patch": null, "user": 283}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7355, "event_time": "2017-06-20T01:00:24", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7364, "event_time": "2017-06-20T14:55:23", "patch": null, "user": null}
+{"name": "series-new-revision", "parameters": {"revision": 1}, "series": 7381, "event_time": "2017-06-21T04:47:43", "patch": null, "user": 10041}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7250, "event_time": "2017-06-22T18:24:20", "patch": 140859, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7251, "event_time": "2017-06-22T18:24:21", "patch": 140860, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7252, "event_time": "2017-06-22T18:24:22", "patch": 140861, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7253, "event_time": "2017-06-22T18:24:24", "patch": 140862, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7254, "event_time": "2017-06-22T18:24:25", "patch": 140863, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7255, "event_time": "2017-06-22T18:24:26", "patch": 140864, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7270, "event_time": "2017-06-22T18:24:27", "patch": 140907, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 7244, "event_time": "2017-06-22T18:24:29", "patch": 140853, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 5436, "event_time": "2017-06-23T23:14:50", "patch": 140350, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 5436, "event_time": "2017-06-23T23:14:51", "patch": 140348, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Accepted", "previous_state": "New"}, "series": 5436, "event_time": "2017-06-23T23:14:53", "patch": 140349, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Master Next", "previous_state": "Accepted"}, "series": 5436, "event_time": "2017-06-23T23:14:56", "patch": 140350, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Master Next", "previous_state": "Accepted"}, "series": 5436, "event_time": "2017-06-23T23:14:57", "patch": 140348, "user": 981}
+{"name": "patch-state-change", "parameters": {"new_state": "Master Next", "previous_state": "Accepted"}, "series": 5436, "event_time": "2017-06-23T23:14:59", "patch": 140349, "user": 981}
